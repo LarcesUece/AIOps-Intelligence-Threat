@@ -1,0 +1,12 @@
+.env-sigma
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.venv
+.env-ia
+*.png
+.python-version
+outputs/
+.vscode/
+

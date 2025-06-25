@@ -1,0 +1,12 @@
+{
+    "abuseipdb_confidence_score": 0.14826500345418117,
+    "virustotal_malicious": 0.13669795123696,
+    "ipvoid_detection_count": 0.11801387620176039,
+    "virustotal_suspicious": 0.11405083793027718,
+    "abuseipdb_num_distinct_users": 0.10363684757183193,
+    "virustotal_undetected": 0.09219182106323418,
+    "virustotal_harmless": 0.09070891632906479,
+    "risk_recommended_pulsedive": 0.07922468712674871,
+    "abuseipdb_total_reports": 0.07186678052341611,
+    "virustotal_reputation": 0.045343278562525555
+}

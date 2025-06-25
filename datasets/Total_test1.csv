@@ -1,0 +1,2 @@
+ip_address,abuseipdb_confidence_score,abuseipdb_total_reports,abuseipdb_num_distinct_users,ipvoid_detection_count,risk_recommended_pulsedive,amount_risk_pulsedrive,none_pulsedrive,medium_pulsedrive,high_pulsedrive,virustotal_reputation,virustotal_malicious,virustotal_suspicious,virustotal_undetected,virustotal_harmless
+149.90.149.49,100,158,78,8,medium,1,0,1,0,-1,10,3,27,54
